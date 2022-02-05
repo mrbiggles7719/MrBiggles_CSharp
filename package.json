@@ -8,6 +8,7 @@
   "documentationUrl": "https://example.com/",
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
+  "hideInEditor": "false",
   "dependencies": {
 
  },
