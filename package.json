@@ -1,6 +1,6 @@
 {
   "name": "net.mrbiggles",
-  "version": "1.0",
+  "version": "1.0.0",
   "displayName": "Common Scripts",
   "description": "Common Scriptse",
   "unity": "2019.1",
@@ -19,6 +19,6 @@
   "author": {
     "name": "MrBiggles",
     "email": "example@example.com",
-    "url": "https://www.unity3d.com"
+    "url": "https://github.com/mrbiggles7719/MrBiggles_CSharp"
   }
 }
